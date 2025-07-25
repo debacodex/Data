@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Apply",
+    "village": "A common fruit, typically round.",
+    "imageUrl": "https://debashiscodex.page.link/user1",
+    "rice":"1",
+    "money":"1",
+    "things":"no",
+    "status":"no"
+    
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "imageUrl": "https://debashiscodex.page.link/user1",
+    "Village": "A long, curved fruit which grows in bunches.",
+"rice":"1",
+    "money":"1",
+    "things":"no",
+    "status":"no"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "imageUrl": "https://debashiscodex.page.link/user0",
+    "Village": "A round, orange-colored citrus fruit.",
+"rice":"1",
+    "money":"1",
+    "things":"no",
+    "status":"no"
+  },
+  {
+    "id": 4,
+    "name": "Grape",
+     "imageUrl": "https://debashiscodex.page.link/user1",
+    "Village": "A berry, typically green, purple, red, or black.",
+"rice":"1",
+    "money":"1",
+    "things":"no",
+    "status":"no"
+  }
+]
